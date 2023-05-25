@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "cli-spinners": "^2.9.0",
+    "console.table": "^0.10.0",
+    "zx": "^7.2.2"
+  },
+  "name": "outdated",
+  "module": "index.js",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
